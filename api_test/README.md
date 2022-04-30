@@ -30,3 +30,8 @@ this phase adds the remaining CRUD functions (read is in phase 2)
 ## todo
 pick up with Mutex handling to contrgol race conditions and consistency
 create error handling for potential input errors
+
+## Notes
+
+useful sites
+- https://mj-go.in/golang/crud-rest-api-with-gorilla-mux#put-a-user
